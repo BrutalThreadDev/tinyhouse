@@ -1,0 +1,7 @@
+{
+  "name": "Barnhaus Tasmania",
+  "description": "Eco-friendly tiny house accommodation in the heart of Tasmania's north-west coast. A Scandinavian-style off-grid retreat for couples.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
